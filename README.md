@@ -6,6 +6,12 @@ working on a couple of projects, including my own
 [Movimenta](https://movimenta.ao), which is a tool
 that promises to be the leader of crowdfunding in Angola
 
+## Quick overview
+* GitHub stats:  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=inacio1975&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
+
 <details>
 <summary>
   More stuff about me
