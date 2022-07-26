@@ -1,9 +1,9 @@
 # Hi everyone :wave:
 
-I'm a web developer from Angola, who loves IT, and is currently working at [Sinfic](https://quatenus.com).
+I'm a web developer from Angola, who loves IT, and is currently working at [Sinfic](https://www.quatenus.com).
 I mainly code in JavaScript, in 2021 I fell in love with Next.js, React, React Native and so many other modern web frameworks. I am always learning. Currently I'm also
 working on a couple of projects, including my own
-[Movimenta](https://movimenta.co.ao), which is a tool
+[Movimenta](https://movimenta.ao), which is a tool
 that promises to be the leader of crowdfunding in Angola
 
 <details>
