@@ -16,6 +16,7 @@ that promises to be the leader of crowdfunding in Angola
 
 * GitHub stats:  
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=inacio1975&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inacio1975&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <details>
 <summary>
